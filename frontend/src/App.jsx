@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Page() {
   return <main>
-    <img src="./foto.svg" alt="foto" width="128"/>
+    <img src="./foto1.jpg" alt="foto" width="128"/>
     <div>
       <b>Koikawa</b> | 00 Anos | Web Developer
     </div>
